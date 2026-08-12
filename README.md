@@ -5,7 +5,7 @@ I'm a Computer & Telecommunications Engineer, working day-to-day in **Backend & 
 - 🔧 I mainly work in **Backend & Network Engineering**
 - 🧠 Interested in designing solid APIs and network infrastructure
 - 📫 Feel free to reach out if you'd like to talk about backend, networking, or a potential project
-- 🌐 Website: [kuriozum.bieda.it(https://www.kuriozum.bieda.it)
+- 🌐 Website: [kuriozum.bieda.it](https://www.kuriozum.bieda.it)
 - 💼 LinkedIn: [linkedin.com/in/piotr-frasik](https://www.linkedin.com/in/piotr-frasik/)
 
 ---
