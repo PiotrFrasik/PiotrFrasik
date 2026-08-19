@@ -10,7 +10,7 @@ I'm a Computer & Telecommunications Engineer, working day-to-day in **Backend & 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### — Backend Technologies —
 
