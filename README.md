@@ -16,23 +16,30 @@ I'm a Computer & Telecommunications Engineer, working day-to-day in **Backend & 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![API Design](https://img.shields.io/badge/API%20Design-4B32C3?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AI API](https://img.shields.io/badge/AI%20API-8A2BE2?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-37474F?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-E67E22?style=for-the-badge)
 
 ### — Networking Technologies —
 
 ![Network Administration](https://img.shields.io/badge/Network%20Administration%20(LAN%2C%20FTTH%2C%20HFC)-003366?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4D4D4D?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%20%2F%20WAN-007BFF?style=for-the-badge)
 ![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge)
 ![Omada](https://img.shields.io/badge/Omada-1B5F9E?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-
 ---
 
 ⭐ Thanks for stopping by my profile!
